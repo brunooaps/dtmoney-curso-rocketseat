@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="logo" title="Dtmoney" src="./dtmoney/src/assets/logo.svg" width="200px" height="100px"/>
+  <img alt="logo" title="Dtmoney" src="./src/assets/logo.svg" width="200px" height="100px"/>
 </h1>
 
 <p align="center">Este projeto é um site baseado no controle financeiro, para anotar saidas e entradas da sua conta. Este projeto foi feito junto ao curso da Rocketseat</p>
@@ -23,8 +23,8 @@
 
 <h2 id="imagens">•📸 Imagens</h2>
 
-<img src="./dtmoney/public/dashboard.png"/>
-<img src="./dtmoney/public/cadastrar-transacao.png"/>
+<img src="./public/dashboard.png"/>
+<img src="./public/cadastrar-transacao.png"/>
 </br>
 
 <h2 id="tecnologias">•💻 Tecnologias</h2>
