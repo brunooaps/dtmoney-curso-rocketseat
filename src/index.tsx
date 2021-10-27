@@ -15,7 +15,8 @@ createServer({
   },
 
   routes() {
-    this.namespace = "api";
+    this.namespace = ''
+    this.passthrough()
 
     this.get('/transactions', () => {
       return this.schema.all('transaction')
