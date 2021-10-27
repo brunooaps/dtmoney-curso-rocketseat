@@ -15,8 +15,7 @@ createServer({
   },
 
   routes() {
-    this.passthrough("https://brunooaps.github.io/DTmoney-Curso-Rocketseat/api/transactions");
-    this.passthrough();
+    this.namespace="api"
 
     this.get('/transactions', () => {
       return this.schema.all('transaction')
