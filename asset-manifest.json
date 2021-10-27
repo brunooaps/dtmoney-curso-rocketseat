@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.js": "/your-app-name/static/js/main.05e9466b.chunk.js",
-    "main.js.map": "/your-app-name/static/js/main.05e9466b.chunk.js.map",
-    "runtime-main.js": "/your-app-name/static/js/runtime-main.b0b78029.js",
-    "runtime-main.js.map": "/your-app-name/static/js/runtime-main.b0b78029.js.map",
-    "static/js/2.89ef4575.chunk.js": "/your-app-name/static/js/2.89ef4575.chunk.js",
-    "static/js/2.89ef4575.chunk.js.map": "/your-app-name/static/js/2.89ef4575.chunk.js.map",
-    "index.html": "/your-app-name/index.html",
-    "static/js/2.89ef4575.chunk.js.LICENSE.txt": "/your-app-name/static/js/2.89ef4575.chunk.js.LICENSE.txt",
-    "static/media/close.cefaa90c.svg": "/your-app-name/static/media/close.cefaa90c.svg",
-    "static/media/entradas.6106d856.svg": "/your-app-name/static/media/entradas.6106d856.svg",
-    "static/media/logo.b30f412f.svg": "/your-app-name/static/media/logo.b30f412f.svg",
-    "static/media/saidas.34032f7e.svg": "/your-app-name/static/media/saidas.34032f7e.svg",
-    "static/media/total.f3c3c7de.svg": "/your-app-name/static/media/total.f3c3c7de.svg"
+    "main.js": "/DTmoney-Curso-Rocketseat/static/js/main.05e9466b.chunk.js",
+    "main.js.map": "/DTmoney-Curso-Rocketseat/static/js/main.05e9466b.chunk.js.map",
+    "runtime-main.js": "/DTmoney-Curso-Rocketseat/static/js/runtime-main.45583b4e.js",
+    "runtime-main.js.map": "/DTmoney-Curso-Rocketseat/static/js/runtime-main.45583b4e.js.map",
+    "static/js/2.624decab.chunk.js": "/DTmoney-Curso-Rocketseat/static/js/2.624decab.chunk.js",
+    "static/js/2.624decab.chunk.js.map": "/DTmoney-Curso-Rocketseat/static/js/2.624decab.chunk.js.map",
+    "index.html": "/DTmoney-Curso-Rocketseat/index.html",
+    "static/js/2.624decab.chunk.js.LICENSE.txt": "/DTmoney-Curso-Rocketseat/static/js/2.624decab.chunk.js.LICENSE.txt",
+    "static/media/close.cefaa90c.svg": "/DTmoney-Curso-Rocketseat/static/media/close.cefaa90c.svg",
+    "static/media/entradas.6106d856.svg": "/DTmoney-Curso-Rocketseat/static/media/entradas.6106d856.svg",
+    "static/media/logo.b30f412f.svg": "/DTmoney-Curso-Rocketseat/static/media/logo.b30f412f.svg",
+    "static/media/saidas.34032f7e.svg": "/DTmoney-Curso-Rocketseat/static/media/saidas.34032f7e.svg",
+    "static/media/total.f3c3c7de.svg": "/DTmoney-Curso-Rocketseat/static/media/total.f3c3c7de.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b0b78029.js",
-    "static/js/2.89ef4575.chunk.js",
+    "static/js/runtime-main.45583b4e.js",
+    "static/js/2.624decab.chunk.js",
     "static/js/main.05e9466b.chunk.js"
   ]
 }
