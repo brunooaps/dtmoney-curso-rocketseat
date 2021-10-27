@@ -15,8 +15,7 @@ createServer({
   },
 
   routes() {
-    this.namespace = ''
-    this.passthrough()
+    this.passthrough('/**')
 
     this.get('/transactions', () => {
       return this.schema.all('transaction')
