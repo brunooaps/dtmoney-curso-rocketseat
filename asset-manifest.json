@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/DTmoney-Curso-Rocketseat/static/js/main.2e271697.chunk.js",
-    "main.js.map": "/DTmoney-Curso-Rocketseat/static/js/main.2e271697.chunk.js.map",
+    "main.js": "/DTmoney-Curso-Rocketseat/static/js/main.3c5ade49.chunk.js",
+    "main.js.map": "/DTmoney-Curso-Rocketseat/static/js/main.3c5ade49.chunk.js.map",
     "runtime-main.js": "/DTmoney-Curso-Rocketseat/static/js/runtime-main.45583b4e.js",
     "runtime-main.js.map": "/DTmoney-Curso-Rocketseat/static/js/runtime-main.45583b4e.js.map",
     "static/js/2.624decab.chunk.js": "/DTmoney-Curso-Rocketseat/static/js/2.624decab.chunk.js",
@@ -17,6 +17,6 @@
   "entrypoints": [
     "static/js/runtime-main.45583b4e.js",
     "static/js/2.624decab.chunk.js",
-    "static/js/main.2e271697.chunk.js"
+    "static/js/main.3c5ade49.chunk.js"
   ]
 }
